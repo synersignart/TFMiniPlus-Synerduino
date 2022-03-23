@@ -1,3 +1,5 @@
+//See Trigger tab to adjust its distance if (( ( ( ( dist ) < ( 250 ) ) Change this value to adjust the distance in  250 cm - TFMini has a range of 1200cm
+
 void trigger(){
 
 
