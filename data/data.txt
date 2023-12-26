@@ -1,0 +1,4 @@
+COM19
+SynerFlight Lidae
+Baud57600
+
